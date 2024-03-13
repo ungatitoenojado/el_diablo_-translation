@@ -1,0 +1,567 @@
+# TODO: Translation updated at 2024-03-11 13:37
+
+# game/script.rpy:275
+translate espanol akt1_6732ef7c:
+
+    # s "Це історія про найнебезпечнішого бандита на всьому Дикому Заході. Діти складали жахалки про нього, батьки ховали свої сім'ї, а жінки сподівалися, що він їх вкраде, адже він був найкращим коханцем на всьому Дикому Заході."
+    s "Esta es la historia del bandido más peligroso del Salvaje Oeste. Los niños contaban historias de terror sobre él, los padres escondían a sus familias, y las mujeres esperaban que él las robara, porque era el amante más apasionado del Salvaje Oeste."
+
+# game/script.rpy:275
+translate espanol akt1_3ebbe4d0:
+
+    # s "Його ім'я говорили пошепки, адже вірили, що він демон, який приходить до кожного, хто гукає його."
+    s "Su nombre se susurraba en voz baja, porque creían que era un demonio que venía a cada uno que lo llamaba."
+
+# game/script.rpy:275
+translate espanol akt1_abb27936:
+
+    # s "Ім'я йому..."
+    s "Su nombre..."
+
+# game/script.rpy:275
+translate espanol akt1_0d3f2968:
+
+    # s "el diablo del salvaje oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba"
+    s "el diablo del salvaje oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba"
+
+# game/script.rpy:275
+translate espanol akt1_c3526b0b:
+
+    # s "Але всі називають його..."
+    s "Pero todos lo llaman..."
+
+# game/script.rpy:311
+translate espanol showgg_bank1_73575dc3:
+
+    # s "А ну швидко всі дзьоби до підлоги, курчата! Це пограбування!"
+    s "¡Todos al suelo, pollos! ¡Esto es un atraco!"
+
+# game/script.rpy:313
+translate espanol showgg_bank1_05cbfcd7:
+
+    # s "El Diablo був благородним бандитом, тому крав у всіх, не важливо, багатий ти чи бідний, твої гроші це гроші El Diablo. З ним завжди були три його вершники апокаліпсису, найвідчайдушніші виродки на всьому Дикому Заході."
+    s "El Diablo era un bandido noble, por eso robaba a todos, no importa si eras rico o pobre, tus dineros eran los dineros del Diablo. Siempre lo acompañaban tres jinetes del apocalipsis, los más despiadados malhechores del Salvaje Oeste."
+
+# game/script.rpy:319
+translate espanol showgg_bank1_1e0b5a31:
+
+    # b "На вулиці чисто, Босе. І погода чудова, саме те, щоб відстрелити місцевому шерифу його хвіст."
+    b "En la calle está limpio, jefe. Y el clima es estupendo, justo para dispararle al trasero del sheriff local."
+
+# game/script.rpy:341
+translate espanol showbill_aaf2678c:
+
+    # c "Ми тут за грошима банку, вас ми не чіпатимемо. Сидіть спокійно і ніхто не постраждає."
+    c "Estamos aquí por el dinero del banco, no te molestaremos. Siéntense tranquilos y nadie saldrá herido."
+
+# game/script.rpy:362
+translate espanol showcici_64d2bbfd:
+
+    # s "Якщо не хочете залишитися без пір'я, усі на підлогу!"
+    s "¡Si no quieren quedarse sin plumas, todos al suelo!"
+
+# game/script.rpy:385
+translate espanol showjesse_beb9ec9b:
+
+    # c "Джессі, вирішив поховати нас під завалами цього банку?! Скільки разів я казала брати менше динаміту!"
+    c "¡Jesse, ¿decidiste enterrarnos bajo los escombros de este banco?! ¡Cuántas veces te dije que usaras menos dinamita!"
+
+# game/script.rpy:388
+translate espanol showjesse_1ee13fc8:
+
+    # s "Динаміту мало не буває, крихітко. Правильно ж я кажу, босе?"
+    s "La dinamita nunca es suficiente, pequeña. ¿No es así, jefe?"
+
+# game/script.rpy:403
+translate espanol zoom_gg_fi_2ea1ef05:
+
+    # s "Ось бачиш, Бос фігні не скаже."
+    s "Aquí lo ves, el jefe no dirá tonterías."
+
+# game/script.rpy:408
+translate espanol zoom_gg_fi_09304517:
+
+    # b "Ну, що там, голубки, наговорилися? Джессі, досить дзьобом клацати, пішов за грошима!"
+    b "Bueno, ¿qué hay, palomitas? ¿Han hablado mucho? Jesse, deja de picotear y ve por el dinero."
+
+# game/script.rpy:413
+translate espanol zoom_gg_fi_826b2008:
+
+    # s "Розслабся, що взагалі може трапитися?"
+    s "Relájate, ¿qué podría pasar en realidad?"
+
+# game/script.rpy:430
+translate espanol zoom_gg_fi_7476ceba:
+
+    # s "Ой-ой... Хапайте гроші й ідемо поки цей дряхлий банк не обвалився! Всім стояти на своїх місцях!"
+    s "¡Ay, ay... agarren el dinero y vámonos antes de que este viejo banco se derrumbe! ¡Todos en sus lugares!"
+
+# game/script.rpy:436
+translate espanol zoom_gg_fi_12c7d8fe:
+
+    # c "Жоден банк не міг встояти перед цією бандою професійних грабіжників і цей не міг стати винятком." with clr1
+    c "Ningún banco pudo resistir a esta banda de ladrones profesionales y este no pudo ser la excepción." with clr1
+
+# game/script.rpy:436
+translate espanol zoom_gg_fi_4fbe042a:
+
+    # c "Але всьому рано чи пізно приходить кінець, Джессі й справді перестарався з динамітом, і будівля почала валитися." with clr1
+    c "Pero todo tiene un final, tarde o temprano. Jesse realmente exageró con la dinamita, y el edificio comenzó a derrumbarse." with clr1
+
+# game/script.rpy:436
+translate espanol zoom_gg_fi_46c769b8:
+
+    # c "Як тільки банда вийшла з банку, будівля рухнула поховавши під собою не менше дисятка, но не більше сотні птахів..." with clr1
+    c "Tan pronto como la banda salió del banco, el edificio se derrumbó, enterrando no menos de una decena, pero no más de un centenar de pájaros..." with clr1
+
+# game/script.rpy:436
+translate espanol zoom_gg_fi_fec1010e:
+
+    # c "Той день охрестили \"М'ясорубкою El Diablo\"" with clr1
+    c "Ese día fue bautizado como \"La Carnicería de El Diablo\"" with clr1
+
+# game/script.rpy:455
+translate espanol akt3_f6410daf:
+
+    # c "Тієї ж ночі банда святкувала успішне пограбування, із задоволенням розпиваючи текілу і заїдаючи зерном."
+    c "Esa misma noche, la banda celebraba el exitoso atraco, bebiendo tequila con placer y comiendo grano." 
+
+# game/script.rpy:455
+translate espanol akt3_01c1a457:
+
+    # c "Але не El Diablo, він ніколи не хотів заподіяти шкоду цивільним і ситуація з банком ніяк не давала йому спокою."
+    c "Pero no El Diablo, nunca quiso hacer daño a civiles y la situación del banco no le daba paz."
+
+# game/script.rpy:455
+translate espanol akt3_f598b466:
+
+    # c "Вся його мордочка була переповнена смутком і сумом."
+    c "Todo su rostro estaba lleno de tristeza y pesar."
+
+# game/script.rpy:472
+translate espanol zoom_gg_fi1_fbce3085:
+
+    # c "Мабуть, він ховав усе в собі..."
+    c "Quizás él lo guardaba todo para sí mismo..."
+
+# game/script.rpy:477
+translate espanol zoom_gg_fi1_ea389705:
+
+    # c "Знаєш, Diablo, те, що трапилося сьогодні, воно не виходить із моєї голови."
+    c "Sabes, Diablo, lo que pasó hoy, no sale de mi cabeza."
+
+# game/script.rpy:478
+translate espanol zoom_gg_fi1_25a8169d:
+
+    # c "Давай втечемо, тільки ти і я! Але тих грошей що є у нас зараз не вистачить."
+    c "¡Vamos a escapar, solo tú y yo! Pero el dinero que tenemos ahora no será suficiente." 
+
+
+# game/script.rpy:480
+translate espanol zoom_gg_fi1_2e4f5e94:
+
+    # c "Ти думаєш про те саме, що і я? Ну звісно, адже ти й найрозумніший серед нас."
+    c "¿Estás pensando lo mismo que yo? ¡Por supuesto, eres el más inteligente entre nosotros!"
+
+# game/script.rpy:485
+translate espanol zoom_gg_fi1_e8705a9b:
+
+    # c "Вірно! Хлопці, йдіть сюди, Бос знайшов нову 'Справу' для нас."
+    c "¡Así es! Chicos, acérquense, el Jefe encontró una nueva 'chamba' para nosotros."
+
+# game/script.rpy:489
+translate espanol zoom_gg_fi1_7dcd6a5a:
+
+    # s "Ось це наш Бос, не хвилини відпочинку! Я в ділі, чорт забирай!"
+    s "Aquí está nuestro jefe, ¡sin un minuto de descanso! Estoy ocupado, maldita sea."
+
+# game/script.rpy:492
+translate espanol zoom_gg_fi1_50c50fb9:
+
+    # b "Ви знаєте, всі ці три роки, я завжди з вами, хлопці."
+    b "Saben, durante estos tres años, siempre he estado con ustedes, chicos."
+
+# game/script.rpy:511
+translate espanol zoom_gg_fi1_0d6c6f9d:
+
+    # s "Вип'ємо ж за найкращого боса на всьому Дикому Заході!"
+    s "¡Brindemos por el mejor jefe del Salvaje Oeste!"
+
+# game/script.rpy:515
+translate espanol zoom_gg_fi1_d6b89325:
+
+    # c "Банда вибрала найбільший банк на всьому пташиному Заході, ходили легенди про його неприступність і величезні купи золота, які зберігалися в ньому."
+    c "La banda eligió el banco más grande en todo el Oeste del Pájaro, había leyendas sobre su inaccesibilidad y enormes montones de oro que se guardaban en él."
+
+# game/script.rpy:520
+translate espanol zoom_gg_fi1_043ab2ed:
+
+    # c "Минали тижні важкої підготовки, і все тільки для одного."
+    c "Pasaron semanas de preparación intensiva, y todo solo para uno."
+
+# game/script.rpy:522
+translate espanol zoom_gg_fi1_38f875c3:
+
+    # c "Останнє пограбування."
+    c "El último robo."
+
+# game/script.rpy:534
+translate espanol akt4_7809c7d7:
+
+    # c "У повітрі запахло напругою і вареними бобами."
+    c "En el aire se respiraba tensión y frijoles cocidos."
+
+# game/script.rpy:535
+translate espanol akt4_61120823:
+
+    # c "Думаєте що El Diablo переживав за те що зараз пограбує найзахищеніший банк на всьому дикому заході?"
+    c "¿Creen que El Diablo se preocupaba por robar el banco más protegido en todo el Salvaje Oeste?"
+
+# game/script.rpy:536
+translate espanol akt4_abb82e8d:
+
+    # c "Але в його очах було єдине бажання, в місцевому салуні тяпнути стаканчик віскі."
+    c "Pero en sus ojos solo había un deseo, tomar un trago de whisky en el salón local."
+
+# game/script.rpy:540
+translate espanol akt4_f4a18f3a:
+
+    # c "Прийшов час для плану 'Зайшли і вийшли мільйонерами.'"
+    c "Ha llegado el momento del plan 'Entramos y salimos como millonarios'."
+
+# game/script.rpy:579
+translate espanol showgg_bank2_d1e7b8c5:
+
+    # s "А ну швидко всі дзьобом у землю, поки пір'я на місці!"
+    s "¡Todos, rápidamente al suelo, mientras todavía tengan plumas en su lugar!"
+
+# game/script.rpy:583
+translate espanol showgg_bank2_1a085918:
+
+    # c "Настала гробова тиша. Усі погляди були спрямовані в бік банди El Diablo."
+    c "Se hizo un silencio sepulcral. Todas las miradas se dirigieron hacia la banda de El Diablo."
+
+# game/script.rpy:589
+translate espanol npszoom_bank2_cc1cc128:
+
+    # nps "Ти в Техасі, синку."
+    nps "Estás en Texas, hijo."
+
+# game/script.rpy:599
+translate espanol npszoom_bank2_e256dc04:
+
+    # c "Місцеві жителі були готові із задоволенням продемонструвати свою гостинність банді El Diablo"
+    c "Los lugareños estaban dispuestos a mostrar su hospitalidad a la banda de El Diablo con gusto."
+
+# game/script.rpy:601
+translate espanol npszoom_bank2_fae0f019:
+
+    # c "І тільки один Голуб знав, як вирішити цей конфлікт правильно."
+    c "Y solo una Paloma sabía cómo resolver este conflicto correctamente."
+
+# game/script.rpy:637
+translate espanol viski_dc723bc0:
+
+    # c "Як то кажуть: 'Немає нічого кращого за хорошу різанину але для скляночки текіли завжди є час.'"
+    c "Como dicen: 'No hay nada mejor que una buena pelea, pero siempre hay tiempo para un trago de tequila.'"
+
+# game/script.rpy:644
+translate espanol viski_dd8c89f5:
+
+    # nps "До біса правильне рішення, ковбою."
+    nps "Maldita sea, decisión acertada, vaquero."
+
+# game/script.rpy:700
+translate espanol drink_viski_c6980186:
+
+    # "Раптовий голос шерифа перервав вкрай небезпечне пограбування. Пастка, як завжди все йде не за планом... Мабуть, вибору у нашого голуба не залишилося, є тільки одне рішення цієї проблеми."
+    "La voz repentina del sheriff interrumpió el robo extremadamente peligroso. La trampa, como siempre, no salió según lo planeado... Parece que nuestro amigo el pájaro no tiene elección, solo hay una solución para este problema."
+
+# game/script.rpy:701
+translate espanol drink_viski_fded8bf6:
+
+    # " Сама ковбойська 'сутичка на заході сонця' яку тільки можна влаштувати."
+    "El clásico enfrentamiento de vaqueros al atardecer, ¡no hay nada como eso!"
+
+# game/script.rpy:715
+translate espanol drink_viski_33c2211e:
+
+    # sh "Так ти і є той самий відомий на всьому дикому заході el diablo del salvaje oeste que vino de las profundidades, que nunca falla, y si quería, no fallaba?"
+    sh "Entonces, ¿eres el famoso El Diablo del Salvaje Oeste, que vino de las profundidades, que nunca falla, y si quería, no fallaba?"
+
+# game/script.rpy:716
+translate espanol drink_viski_0443aa39:
+
+    # sh "Поки я шериф у цьому місті, тобі не вдасться пограбувати жоден банк."
+    sh "Mientras yo sea el sheriff en esta ciudad, no podrás robar ningún banco."
+
+# game/script.rpy:717
+translate espanol drink_viski_0628f4c4:
+
+    # sh "Кажуть, ти небезпечний, як зграя воронів."
+    sh "Dicen que eres tan peligroso como una bandada de cuervos."
+
+# game/script.rpy:728
+translate espanol drink_viski_4724908a:
+
+    # sh "Прийшов час перевірити, з якого зерна ти зроблений, діставай свої кольти, синку."
+    sh "Es hora de ver de qué estás hecho, saca tus pistolas, muchacho."
+
+# game/script.rpy:815
+translate espanol vistril_29ac578d:
+
+    # sh "Цей голуб реально крутий..."
+    sh "Este pájaro es realmente genial..."
+
+# game/script.rpy:822
+translate espanol vistril_914507be:
+
+    # c "Відмінна робота, El Diablo. Але на цьому твоя роль закінчена. Ти занадто обм'як останнім часом. Вибач, але я не могла допустити, щоб через тебе наша банда розпалася."
+    c "Excelente trabajo, El Diablo. Pero tu papel aquí ha terminado. Has estado demasiado suave últimamente. Lo siento, pero no puedo permitir que nuestra banda se desmorone por tu culpa."
+
+# game/script.rpy:831
+translate espanol vistril_1f6ac52e:
+
+    # "Раптовий і зовсім непередбачуваний поворот подій шокував нашого голуба до глибини душі."
+    "Un giro repentino e completamente impredecible de los eventos dejó a nuestro palomo en shock hasta lo más profundo de su ser."
+
+# game/script.rpy:835
+translate espanol vistril_9549a8e2:
+
+    # s "Ми все знаємо, diablo, Ти збирався забрати всі гроші собі, Сісі розповіла про твій підлий план."
+    s "Todos lo sabemos, Diablo. Planeabas quedarte con todo el dinero. Sisi habló sobre tu plan malvado."
+
+# game/script.rpy:838
+translate espanol vistril_591756e3:
+
+    # c "Ти не гідний називатися el diablo, прощавай."
+    c "No eres digno de ser llamado el Diablo, adiós."
+
+# game/script.rpy:839
+translate espanol vistril_8380c642:
+
+    # "Якби el diablo хотів пристрелити цих трьох зрадників, йому б вистачило й секунди. Але хто знав, що текіла так раптово вдарить у голову."
+    "Si el Diablo hubiera querido dispararles a estos tres traidores, le habría llevado solo unos segundos. Pero quién sabía que el tequila golpearía tan repentinamente."
+
+# game/script.rpy:851
+translate espanol vistril_02c05317:
+
+    # "Того дня el diablo помер."
+    "Ese día, el Diablo murió."
+
+# game/script.rpy:861
+translate espanol akt5_38600f29:
+
+    # "Час твій ще не закінчено, Велике Сіре Перо. Духи Дикого Заходу на боці твоєму."
+    "Tu tiempo aún no ha terminado, Gran Señor Pluma. Los espíritus del Salvaje Oeste están de tu lado."
+
+# game/script.rpy:862
+translate espanol akt5_74c5a0d5:
+
+    # "{w=1}Син...{w=1} Ти останній із роду Апачів. Зараз ти в пустищі, у місці, де перетинаються життя і смерть."
+    "{w=1}Hijo...{w=1} Eres el último de los Apaches. Ahora estás en el desierto, en el lugar donde la vida y la muerte se encuentran."
+
+# game/script.rpy:863
+translate espanol akt5_11ebef67:
+
+    # "Час згадати, хто ти є насправді..."
+    "Es hora de recordar quién eres realmente..."
+
+# game/script.rpy:869
+translate espanol akt5_a427a905:
+
+    # "{w=1}О ні{w=0.1}, вони вже тут, тобі варто забиратися звідси! Конфедерати вже тут!"
+    "{w=1}Oh no{w=0.1}, ellos ya están aquí, ¡deberías irte de aquí! ¡Los confederados ya están aquí!"
+
+# game/script.rpy:880
+translate espanol art2_ef743b1b:
+
+    # "У той момент, голуб згадав усе."
+    "En ese momento, la paloma recordó todo."
+
+# game/script.rpy:884
+translate espanol art2_4347a27c:
+
+    # "Будучи дитиною, незважаючи на те, що він голуб, один із тих, хто винищував горобців. Вождь апачів прийняв його, як свого сина."
+    "Siendo solo un niño, a pesar de ser una paloma, uno de los que mataron gorriones. El jefe apache lo tomó como su hijo."
+
+# game/script.rpy:886
+translate espanol art2_f9de92e1:
+
+    # "Але щастя не могло тривати довго..."
+    "Pero la felicidad no podía durar mucho..."
+
+# game/script.rpy:888
+translate espanol art2_c9136667:
+
+    # "Він згадав про те, що буквально дивом зміг врятуватися того дня..."
+    "Recordó cómo milagrosamente logró salvarse ese día..."
+
+# game/script.rpy:889
+translate espanol art2_300147b3:
+
+    # "У день, коли він пообіцяв {p=0.1}собі більше ніколи не тікати."
+    "El día en que se prometió a sí mismo no huir nunca más."
+
+# game/script.rpy:907
+translate espanol akt6_6b542ef2:
+
+    # "Прокинувшись, Велике Сіре Перо, перебував у відкритій труні, містянам на потіху."
+    "Despertando, Gran Señor Pluma se encontraba en un ataúd abierto, para disfrute de los lugareños."
+
+# game/script.rpy:908
+translate espanol akt6_d6cdc717:
+
+    # "Голуб, що повстав прямо з глибин Пекла,{p=0.1} був готовий мстити."
+    "El palomo, emergiendo directamente desde las profundidades del infierno, estaba listo para vengarse."
+
+# game/script.rpy:935
+translate espanol art3_8876011c:
+
+    # "На подив, Сіре Перо помічає Білла Грифа, що чіпляється до місцевих голубок, на що він тільки сподівається з таким-то кривим дзьобом?!"
+    "Para su sorpresa, Gran Señor Pluma nota a Bill Griff, aferrándose a las palomas locales, ¿en qué esperaba tener éxito con ese pico torcido?!"
+
+# game/script.rpy:937
+translate espanol art3_bf5ab0b5:
+
+    # "Мабуть, банда el diablo вирішила залишитися в місті і захопити його. Але вони зробили величезну помилку, перейшовши дорогу найнебезпечнішому голубу на всьому Дикому-дикому Заході."
+    "Quizás la banda de el Diablo decidió quedarse en la ciudad y tomar el control. Pero cometieron un error enorme al enfrentarse al palomo más peligroso del Salvaje Oeste."
+
+# game/script.rpy:941
+translate espanol art3_06a635cb:
+
+    # b "Бос? Мабуть, на сьогодні вистачить текіли... Зачекай, не може бути, адже я особисто вбив тебе..."
+    b "Boss? Supongo que por hoy es suficiente tequila... Espera, no puede ser, después de todo, yo personalmente te maté..."
+
+# game/script.rpy:943
+translate espanol art3_d78ee6f3:
+
+    # "Вони ще не знали, що це не el diablo загнали в кут, а їх самих. Адже el diablo не прощає зради."
+    "No sabían que no habían acorralado al Diablo, sino a ellos mismos. Porque el Diablo no perdona la traición."
+
+# game/script.rpy:947
+translate espanol art3_df31e8e8:
+
+    # b "Стривай, пощади! Я ж не міг вчинити інакше, Ти ж хотів кинути нас і забрати всі гроші собі!"
+    b "¡Detente, perdona! ¡No pude evitarlo, querías abandonarnos y llevarte todo el dinero!"
+
+# game/script.rpy:949
+translate espanol art3_2132d8a9:
+
+    # b "Сісі, це все вона! Це була її ідея вбити тебе!"
+    b "¡Sisi, todo es culpa de ella! ¡Fue su idea matarte!"
+
+# game/script.rpy:973
+translate espanol art3_2017c8b9:
+
+    # "Мстивий дух, на крилах ночі, прийде за кожним."
+    "El espíritu vengativo, en las alas de la noche, vendrá por cada uno."
+
+# game/script.rpy:998
+translate espanol akt7_16449b30:
+
+    # s "Ти ж теж чула постріли? Не можу повірити, що ми вбили самого el diablo. Такі як він з миром на той світ не йдуть, я тобі кажу!"
+    s "¿No escuchaste los disparos? No puedo creer que hayamos matado al propio el Diablo. Personas como él no se van en paz, te lo digo yo."
+
+# game/script.rpy:1000
+translate espanol akt7_6e7dd96b:
+
+    # s "Заспокойся, його більше немає, нема про що турбуватися, розслабся. Думаєш, він просто візьме і ось так повстане з мертвих? Тим більше, нас троє, а він один."
+    s "Cálmate, ya no está, no hay de qué preocuparse, relájate. ¿Crees que simplemente se levantará de entre los muertos? Además, somos tres y él es uno."
+
+# game/script.rpy:1001
+translate espanol akt7_b4636540:
+
+    # s "Стривай, що це за звук..."
+    s "Detente, ¿qué es ese sonido?"
+
+# game/script.rpy:1160
+translate espanol end_duel_01bf170d:
+
+    # c "Ух ти ж, мати моя пташка! Ти навіщо сокола прибив?"
+    c "¡Madre mía, pájaro mío! ¿Por qué mataste al halcón?"
+
+# game/script.rpy:1169
+translate espanol end_duel_a2125150:
+
+    # c "Думаєш, ти крутий? Я місяцями спостерігала за тобою і зможу передбачити будь-який твій рух, у тебе немає й шансу проти мене, el diablo."
+    c "¿Crees que eres genial? Te he estado observando durante meses y puedo prever todos tus movimientos. No tienes ninguna posibilidad contra mí, el diablo."
+
+# game/script.rpy:1170
+translate espanol end_duel_9825a9dc:
+
+    # "Настав той самий момент, де два крутих ковбоя зможуть вирішити свої проблеми тільки одним способом, епічною перестрілкою."
+    "Ha llegado el momento en que dos vaqueros geniales solo pueden resolver sus problemas de una manera: con un duelo épico."
+
+# game/script.rpy:1171
+translate espanol end_duel_68aaa03e:
+
+    # c "Так що краще йти по-хорошому..."
+    c "Así que es mejor ir en paz..."
+
+# game/script.rpy:1180
+translate espanol end_duel_f87b2745:
+
+    # "Або ж, Сіре Перо просто застрелить її..."
+    "O Sir Perro simplemente la disparará..."
+
+# game/script.rpy:1187
+translate espanol end_duel_e0e6259a:
+
+    # "Після тієї ночі більше ніхто не бачив найнебезпечнішого злочинця на всьому Дикому Заході, el diablo..."
+    "Después de esa noche, nadie volvió a ver al criminal más peligroso del Salvaje Oeste, el diablo..."
+
+# game/script.rpy:1196
+translate espanol akt8_97235131:
+
+    # "Ма-а-ам, у дідуся знову дах потік."
+    "Mamá, el abuelo tiene una gotera en el techo otra vez."
+
+# game/script.rpy:1197
+translate espanol akt8_71f4e5d9:
+
+    # "Дідусю, лікар же казав, приймай таблетки вчасно. Ніяких голубів ковбоїв не буває."
+    "Abuelo, el médico dijo que tomaras tus pastillas a tiempo. No hay vaqueros palomas."
+
+# game/script.rpy:1198
+translate espanol akt8_d336ab0a:
+
+    # "Кажу тобі, твою історію ніколи не опублікують, досить марити мріями! Голуби ніколи не будуть популярними."
+    "Te lo digo, nunca publicarán tu historia, ¡deja de soñar! Las palomas nunca serán populares."
+
+# game/script.rpy:1199
+translate espanol akt8_ce405edd:
+
+    # "Він не просто голуб, його ім'я, el diablo." with clr
+    "Él no es solo una paloma, su nombre es el diablo." with clr
+
+translate espanol strings:
+
+    # game/script.rpy:149
+    old "Обережно, небезпечна перестрілка!"
+    new "¡Cuidado, un tiroteo peligroso!"
+
+    # game/script.rpy:303
+    old "{font=font/docktrin.ttf}{size=+120}el diablo"
+    new "{font=font/docktrin.ttf}{size=+120}El diablo"
+
+    # game/script.rpy:331
+    old "{font=font/docktrin.ttf}{size=+110}Bill{size=-110}{font=font/Lumberjack Rough.otf}{p}Злий{p} У два роки забив батька чоботом"
+    new "{font=font/docktrin.ttf}{size=+110}Bill{size=-110}{font=font/Lumberjack Rough.otf}{p}Enojado{p} A los dos años mató a su padre con una bota"
+
+    # game/script.rpy:353
+    old "{font=font/docktrin.ttf}{size=+110}Cici{size=-110}{font=font/Lumberjack Rough.otf}{p}Хороша{p} Головна по переговорам."
+    new "{font=font/docktrin.ttf}{size=+110}Sisi{size=-110}{font=font/Lumberjack Rough.otf}{p}Buen{p} Jefe de negociaciones"
+
+    # game/script.rpy:376
+    old "{font=font/docktrin.ttf}{size=+110}Jesse{size=-110}{font=font/Lumberjack Rough.otf}{p}Поганий{p} Експерт із вибухівки."
+    new "{font=font/docktrin.ttf}{size=+110}Jesse{size=-110}{font=font/Lumberjack Rough.otf}{p}Bad{p} Experto en explosivos"
+
+    # game/script.rpy:924
+    old "{font=font/docktrin.ttf}{size=+120}El Diablo {font=font/Lumberjack Rough.otf}{p=0.1}{size=-90}     йде мстити"
+    new "{font=font/docktrin.ttf}{size=+120}El Diablo {font=font/Lumberjack Rough.otf}{p=0.1}{size=-90}     va a vengarse"
+
+    # game/script.rpy:1062
+    old "Постривай!{p}                      Давай просто поговоримо!"
+    new "¡Espera!{p}                        ¡Solo hablemos!"
+
