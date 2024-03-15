@@ -23,6 +23,7 @@ translate espanol akt1_0d3f2968:
 
     # s "el diablo del salvaje oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba"
     s "el diablo del salvaje oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba"
+    + "El Diablo del Salvaje Oeste que vino de las profundidades,{p=0.1} que nunca falla, y si quería, no fallaba."
 
 # game/script.rpy:275
 translate espanol akt1_c3526b0b:
